@@ -1,0 +1,90 @@
+* {
+    margin: 0%;
+    border: block 10;
+   
+    
+}
+ 
+body{
+    background:#170d29;
+    font-family: fantasy;
+}
+
+
+
+
+
+img{
+
+  height: 25vh;
+    width: 25vh;
+    border-radius: 50%;
+    
+    
+    
+}
+
+
+
+
+h3{ font-family: fantasy;
+    font-size: 2rem;
+    color: deeppink;
+}
+
+h4{font-family: fantasy;
+   font-size: 0.7rem;
+   color: black;;
+}
+
+h6{
+    font-family: fantasy;
+    font-size: 1rem;
+    color: deeppink;
+}
+
+
+button{
+    font-family: fantasy;
+    color: deeppink;
+}
+
+h8{
+    font-family: fantasy;
+    color: deeppink;
+    font-size: 1rem;
+
+}
+
+h5{
+    font-family: fantasy;
+    color: deeppink;
+    font-size: 3.5rem;
+}
+
+
+h1{
+    font-family: fantasy;
+    color: deeppink;
+    font-size: 0.7rem;
+}
+
+
+
+
+
+
+
+footer
+img{
+    height: 50;
+    width: 50;
+
+    border-radius: 0%;
+}
+ 
+
+
+
+
+
